@@ -74,12 +74,9 @@ jupyter notebook notebooks/energy_analysis.ipynb
 
 Contributions are welcome. Please open issues for bugs or feature requests and submit pull requests for proposed changes.
 
-## License
-
-Specify your license here (e.g., MIT). Replace this line with the chosen license text or file reference.
 
 ## Contact
 
 Created by Kapil
 
-For questions or collaboration, open an issue or contact via your GitHub profile.
+For questions or collaboration, open an issue or contact via  GitHub profile.
